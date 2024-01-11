@@ -1,0 +1,196 @@
+.opl-facebook-btn {
+	border:none;
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/fb-button.png) top left no-repeat;
+	width:247px;
+	height:44px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:#FFF;
+	font-weight:800;
+	font-size:15px;
+	text-shadow: 1px 1px 1px #2b4e79;
+	filter: dropshadow(color=#2b4e79, offx=1, offy=1); 
+}
+
+.opl-optin-button {
+	margin:8px 0;
+	width:247px;
+	height:54px;
+	font-family: 'Droid Serif', serif;
+	color:#FFF;
+	font-weight:800;
+	font-size:16px;
+	text-shadow: 1px 1px 1px #808080;
+	filter: dropshadow(color=#808080, offx=1, offy=1); 
+	border:none !important;
+}
+
+.opl-button-yellow {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow.png) top left no-repeat;
+}
+
+.opl-button-yellow:hover {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow.png) bottom left no-repeat;
+}
+
+.opl-button-orange {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange.png) top left no-repeat;
+}
+
+.opl-button-orange:hover {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange.png) bottom left no-repeat;
+}
+
+.opl-button-red {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red.png) top left no-repeat;
+}
+
+.opl-button-red:hover {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red.png) bottom left no-repeat;
+}
+
+.opl-button-green {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green.png) top left no-repeat;
+}
+
+.opl-button-green:hover {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green.png) bottom left no-repeat;
+}
+
+.opl-button-blue {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue.png) top left no-repeat;
+}
+
+.opl-button-blue:hover {
+	background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue.png) bottom left no-repeat;
+}
+
+@media only screen and (max-width: 767px) {
+	.opl-facebook-btn {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/fb-button-small.png) top left no-repeat;
+		width:229px;
+		height:41px;
+	}
+
+	.opl-optin-button {
+		margin:8px 0;
+		width:229px;
+		height:50px;
+		border:none !important;
+	}
+
+	.opl-button-green {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green-small.png) top left no-repeat;
+	}
+
+	.opl-button-green:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-yellow {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow-small.png) top left no-repeat;
+	}
+
+	.opl-button-yellow:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-orange {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange-small.png) top left no-repeat;
+	}
+
+	.opl-button-orange:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-red {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red-small.png) top left no-repeat;
+	}
+
+	.opl-button-red:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-blue {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue-small.png) top left no-repeat;
+	}
+
+	.opl-button-blue:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue-small.png) bottom left no-repeat;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.opl-facebook-btn {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/fb-button-small.png) top left no-repeat;
+		width:229px;
+		height:41px;
+	}
+
+	.opl-optin-button {
+		margin:8px 0;
+		width:229px;
+		height:50px;
+		border:none !important;
+	}
+
+	.opl-button-green {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green-small.png) top left no-repeat;
+	}
+
+	.opl-button-green:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-green-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-yellow {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow-small.png) top left no-repeat;
+	}
+
+	.opl-button-yellow:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-yellow-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-orange {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange-small.png) top left no-repeat;
+	}
+
+	.opl-button-orange:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-orange-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-red {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red-small.png) top left no-repeat;
+	}
+
+	.opl-button-red:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-red-small.png) bottom left no-repeat;
+	}
+
+	.opl-button-blue {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue-small.png) top left no-repeat;
+	}
+
+	.opl-button-blue:hover {
+		background:transparent url(https://web.archive.org/web/20170209122150im_/http://fbdomination.info/wp-content/plugins/optinlitefull/images/btn-blue-small.png) bottom left no-repeat;
+	}
+}
+
+/*
+     FILE ARCHIVED ON 12:21:50 Feb 09, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:05:10 Jan 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 92.979
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.059
+  cdx.remote: 0.052
+  esindex: 0.009
+  LoadShardBlock: 62.957 (3)
+  PetaboxLoader3.datanode: 4785.05 (5)
+  load_resource: 4995.472 (2)
+  PetaboxLoader3.resolve: 181.349 (2)
+*/

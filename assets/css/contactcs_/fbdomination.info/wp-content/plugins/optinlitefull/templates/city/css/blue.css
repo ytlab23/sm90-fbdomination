@@ -1,0 +1,61 @@
+/* =GENERAL
+------------------------------------------*/
+body.opl-canvas {
+	background:#547482 url(https://web.archive.org/web/20170209094702im_/http://fbdomination.info/wp-content/plugins/optinlitefull/templates/city/images/bg-blue.png) top left repeat-x;
+}
+
+.opl-main-video {
+	margin:7px auto 16px auto;
+	background-color:#9ca7ac;
+	padding:5px;
+	-webkit-border-radius: 5px;
+    	border-radius: 5px;
+}
+
+#footer-background {
+	background:transparent;
+}
+
+/* =TOP NAV
+------------------------------------------*/
+#opl-top-nav {
+	background:#547482;
+	-webkit-box-shadow: inset 0px 0px 4px 1px #425d69;
+	box-shadow: inset 0px 0px 4px 1px #425d69;
+}
+
+#opl_nav a:hover{
+	background:#8bacbb;
+}
+
+/* =OPTIN
+-----------------------------------------*/
+#optin .optin_body {
+	background-color:transparent;
+}
+
+form#opl-ar-submit {
+	margin-bottom:5px;
+	padding-bottom:10px;
+	border-bottom:1px dashed #b7cbd4;
+}
+/*
+     FILE ARCHIVED ON 09:47:02 Feb 09, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:05:03 Jan 11, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 324.561
+  exclusion.robots: 0.063
+  exclusion.robots.policy: 0.055
+  cdx.remote: 0.089
+  esindex: 0.008
+  LoadShardBlock: 301.2 (3)
+  PetaboxLoader3.datanode: 258.563 (5)
+  load_resource: 441.259 (2)
+  PetaboxLoader3.resolve: 242.834 (2)
+*/
